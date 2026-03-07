@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="./logo.png" alt="Zakaria Logo" width="120" style="background-color: white; padding: 10px; border-radius: 12px;"/>
-</p>
-
-<p align="center">Hi, I'm Zakaria 👋</p>
-<p align="center">Data & Software Engineering Student · Web Developer · Builder</p>
+<p align="center" text-style="bold">Hi, I'm Zakaria 👋</p>
+<p align="center" text-style="bold">Data & Software Engineering Student · Web Developer · Builder</p>
 
 
 <p align="center">
