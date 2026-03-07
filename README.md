@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Zakaria 👋</h1>
-<h3 align="center">Data & Software Engineering Student · Web Developer · Builder</h3>
+<p align="center">
+  <img src="./logo.png" alt="Zakaria Logo" width="200"/>
+</p>
+
+# Hi, I'm Zakaria 👋
+# Data & Software Engineering Student · Web Developer · Builder
 
 <p align="center">
   <a href="https://github.com/Lechguer">
