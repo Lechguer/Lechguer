@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Zakaria Logo" width="200"/>
+  <img src="./logo.png" alt="Zakaria Logo" width="120" style="background-color: white; padding: 10px; border-radius: 12px;"/>
 </p>
 
 <p align="center">Hi, I'm Zakaria 👋</p>
