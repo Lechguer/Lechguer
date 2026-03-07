@@ -2,8 +2,8 @@
   <img src="./logo.png" alt="Zakaria Logo" width="200"/>
 </p>
 
-# Hi, I'm Zakaria 👋
-# Data & Software Engineering Student · Web Developer · Builder
+#                                               Hi, I'm Zakaria 👋
+#                           Data & Software Engineering Student · Web Developer · Builder
 
 <p align="center">
   <a href="https://github.com/Lechguer">
