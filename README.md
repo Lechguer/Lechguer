@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">Hi, I'm Zakaria 👋</p>
-<p>Data & Software Engineering Student · Web Developer · Builder</p>
+<p align="center">Data & Software Engineering Student · Web Developer · Builder</p>
 
 
 <p align="center">
