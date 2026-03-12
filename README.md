@@ -1,160 +1,174 @@
+<!-- BANNER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l4Ki2obCyAQS5WhFe/giphy.gif" width="100%" height="250px" style="object-fit:cover;" alt="Ghibli Banner"/>
+</div>
+
+---
+
+<!-- TITLE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ZAKARIA&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Software%20Engineering%20Student&descAlignY=58&descSize=18&stroke=ffffff&strokeWidth=1"/>
+# 🌿 Zakaria here ✨ !
+
+### 🙏 Namaste — I'm Zakaria
 
 </div>
 
 ---
 
+<!-- ABOUT ME -->
+## 🍃 About Me
+
+<img align="right" width="260" src="https://media.giphy.com/media/H7kfgDpkPxAfLx37GY/giphy.gif" alt="Ghibli coding gif"/>
+
+🌱 I'm a **Data & Software Engineering** student, passionate about building things that are clean, fast, and purposeful.
+
+🔭 I work on **Front-End Development** using pure HTML, CSS & JavaScript — no frameworks, no shortcuts.
+
+🎓 I'm currently pursuing a degree in **Data & Software Engineering**.
+
+⚔️ I'm training in **Algorithms, Data Structures & Software Architecture**.
+
+🤖 Interest in **Machine Learning, Data Engineering, Databases & AI**.
+
+💡 Ask me about **HTML, CSS, JavaScript, Python, Data Engineering**.
+
+⚡ I only like perfection.
+
+<br clear="right"/>
+
+---
+
+<!-- SOCIAL -->
 <div align="center">
 
-```
-  ██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗
-  ██║    ██║██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║
-  ██║ █╗ ██║█████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║
-  ██║███╗██║██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝
-  ╚███╔███╔╝███████╗██████╔╝    ██████╔╝███████╗ ╚████╔╝
-   ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝
-```
+### 🌸 Find Me On
 
-### 👋 Namaste! I'm **Zakaria** — a developer who treats the browser as a canvas.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+%26+Software+Engineering+Student+%F0%9F%8E%93;Front-End+Developer+%E2%80%94+HTML+%C2%B7+CSS+%C2%B7+JavaScript;Exploring+Data+Science+%26+Engineering;Building+Pixel-Perfect+Interfaces;No+Frameworks+%E2%80%94+Just+Pure+Web+Craft)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-1b4332?style=for-the-badge&logo=github&logoColor=d8f3dc)](https://github.com/Lechguer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d6a4f?style=for-the-badge&logo=linkedin&logoColor=d8f3dc)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-40916c?style=for-the-badge&logo=gmail&logoColor=d8f3dc)](mailto:your@email.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```python
-zakaria = {
-    "role":       "Data & Software Engineering Student 🎓",
-    "location":   "Morocco 🇲🇦",
-    "frontend":   ["HTML5", "CSS3", "JavaScript"],
-    "exploring":  ["Data Engineering", "Software Engineering", "Algorithms"],
-    "tools":      ["VS Code", "Git", "GitHub", "Figma"],
-    "philosophy": "Great design needs zero dependencies",
-    "motto":      "I only like perfection ⚡"
-}
-```
-
----
-
-## 🛠️ Tech Stack
+<!-- LANGUAGES & TOOLS -->
+## 🛠️ Languages & Tools I've Placed My Hands On
 
 <div align="center">
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Data & Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-1b4332?style=flat-square&logo=python&logoColor=d8f3dc)
+![Java](https://img.shields.io/badge/-Java-1b4332?style=flat-square&logo=openjdk&logoColor=d8f3dc)
+![C](https://img.shields.io/badge/-C-1b4332?style=flat-square&logo=c&logoColor=d8f3dc)
+![C++](https://img.shields.io/badge/-C++-1b4332?style=flat-square&logo=cplusplus&logoColor=d8f3dc)
+![R](https://img.shields.io/badge/-R-1b4332?style=flat-square&logo=r&logoColor=d8f3dc)
+![SQL](https://img.shields.io/badge/-SQL-1b4332?style=flat-square&logo=mysql&logoColor=d8f3dc)
+![HTML5](https://img.shields.io/badge/-HTML5-1b4332?style=flat-square&logo=html5&logoColor=d8f3dc)
+![CSS3](https://img.shields.io/badge/-CSS3-1b4332?style=flat-square&logo=css3&logoColor=d8f3dc)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1b4332?style=flat-square&logo=javascript&logoColor=d8f3dc)
+![Git](https://img.shields.io/badge/-Git-1b4332?style=flat-square&logo=git&logoColor=d8f3dc)
+![GitHub](https://img.shields.io/badge/-GitHub-1b4332?style=flat-square&logo=github&logoColor=d8f3dc)
+![VS Code](https://img.shields.io/badge/-VS%20Code-1b4332?style=flat-square&logo=visual-studio-code&logoColor=d8f3dc)
+![Figma](https://img.shields.io/badge/-Figma-1b4332?style=flat-square&logo=figma&logoColor=d8f3dc)
+![Linux](https://img.shields.io/badge/-Linux-1b4332?style=flat-square&logo=linux&logoColor=d8f3dc)
+![Pandas](https://img.shields.io/badge/-Pandas-2d6a4f?style=flat-square&logo=pandas&logoColor=d8f3dc)
+![NumPy](https://img.shields.io/badge/-NumPy-2d6a4f?style=flat-square&logo=numpy&logoColor=d8f3dc)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-2d6a4f?style=flat-square&logo=scikit-learn&logoColor=d8f3dc)
+![Jupyter](https://img.shields.io/badge/-Jupyter-2d6a4f?style=flat-square&logo=jupyter&logoColor=d8f3dc)
+![MySQL](https://img.shields.io/badge/-MySQL-2d6a4f?style=flat-square&logo=mysql&logoColor=d8f3dc)
 
 </div>
 
 ---
 
-## 🗂️ Web Projects
-
-<div align="center">
-
-| 🚀 | Project | What it does |
-|:---:|---------|-------------|
-| 🔐 | [**Login Page**](./Login%20page) | Sleek login UI with smooth JS validation & form interactions |
-| 👤 | [**Portfolio**](./Portfolio) | Personal portfolio showcasing my work and skills |
-| ☕ | [**Coffee Shop**](./My%20Project%201) | A rich landing page for a coffee brand |
-| 🧠 | [**Quiz Game**](./Quiz-Game) | Fast-paced interactive quiz with score tracking |
-| ✅ | [**TaskFlow**](./TaskFlow) | Minimal task manager — add, complete, delete |
-| 🌙 | [**Ramadan Timer**](./Ramadan%20timer) | Live countdown timer for Ramadan nights |
-| 📄 | [**Page**](./page) | Pure HTML & CSS — proof that great design needs no JS |
-
-</div>
-
----
-
+<!-- GITHUB STATS -->
 ## ⚡ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lechguer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechguer&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lechguer&show_icons=true&hide_border=true&bg_color=d8f3dc&title_color=1b4332&icon_color=2d6a4f&text_color=1b4332&include_all_commits=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lechguer&layout=compact&hide_border=true&bg_color=d8f3dc&title_color=1b4332&text_color=1b4332&langs_count=8)
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lechguer&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lechguer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Streak](https://streak-stats.demolab.com?user=Lechguer&hide_border=true&background=d8f3dc&ring=2d6a4f&fire=40916c&currStreakLabel=1b4332&sideLabels=2d6a4f&dates=40916c&sideNums=1b4332&currStreakNum=1b4332)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- TECH STACK -->
+## 🌿 Tech Stack
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lechguer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=d8f3dc)
+![Java](https://img.shields.io/badge/Java-40916c?style=for-the-badge&logo=openjdk&logoColor=d8f3dc)
+![C++](https://img.shields.io/badge/C++-1b4332?style=for-the-badge&logo=cplusplus&logoColor=d8f3dc)
+![JavaScript](https://img.shields.io/badge/JavaScript-52b788?style=for-the-badge&logo=javascript&logoColor=1b4332)
+![HTML5](https://img.shields.io/badge/HTML5-74c69d?style=for-the-badge&logo=html5&logoColor=1b4332)
+![CSS3](https://img.shields.io/badge/CSS3-95d5b2?style=for-the-badge&logo=css3&logoColor=1b4332)
+![R](https://img.shields.io/badge/R-2d6a4f?style=for-the-badge&logo=r&logoColor=d8f3dc)
+![SQL](https://img.shields.io/badge/SQL-40916c?style=for-the-badge&logo=mysql&logoColor=d8f3dc)
+![Pandas](https://img.shields.io/badge/Pandas-1b4332?style=for-the-badge&logo=pandas&logoColor=d8f3dc)
+![NumPy](https://img.shields.io/badge/NumPy-2d6a4f?style=for-the-badge&logo=numpy&logoColor=d8f3dc)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-40916c?style=for-the-badge&logo=scikit-learn&logoColor=d8f3dc)
+![Jupyter](https://img.shields.io/badge/Jupyter-52b788?style=for-the-badge&logo=jupyter&logoColor=1b4332)
+![MySQL](https://img.shields.io/badge/MySQL-74c69d?style=for-the-badge&logo=mysql&logoColor=1b4332)
+![Git](https://img.shields.io/badge/Git-1b4332?style=for-the-badge&logo=git&logoColor=d8f3dc)
+![Linux](https://img.shields.io/badge/Linux-2d6a4f?style=for-the-badge&logo=linux&logoColor=d8f3dc)
+![VS Code](https://img.shields.io/badge/VS%20Code-40916c?style=for-the-badge&logo=visual-studio-code&logoColor=d8f3dc)
+![Figma](https://img.shields.io/badge/Figma-52b788?style=for-the-badge&logo=figma&logoColor=1b4332)
 
 </div>
 
 ---
 
-## ✅ What Makes My Projects Stand Out
+<!-- TOP REPO + QUOTE -->
+## 🌟 Top Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍀 Random Dev Quote
 
 <div align="center">
 
-| Feature | Detail |
-|---------|--------|
-| 📱 **Responsive** | Works flawlessly on mobile, tablet & desktop |
-| ✨ **Animated** | Smooth CSS transitions & keyframe animations |
-| 🧱 **Semantic HTML** | Clean, accessible, well-structured markup |
-| 🚫 **Zero Dependencies** | Pure vanilla — no npm, no frameworks |
-| 🎯 **Pixel-Perfect** | Every detail intentional, every spacing deliberate |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lechguer&repo=HTML-CSS-JS-projects&hide_border=true&bg_color=d8f3dc&title_color=1b4332&icon_color=2d6a4f&text_color=1b4332)](https://github.com/Lechguer/HTML-CSS-JS-projects)
+&nbsp;&nbsp;
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
 
 </div>
 
 ---
 
-## 🤝 Connect with Me
+<!-- CONTRIBUTION GRAPH -->
+## 🌱 Contribution Garden
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lechguer)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lechguer&bg_color=d8f3dc&color=1b4332&line=2d6a4f&point=1b4332&area=true&area_color=95d5b2&hide_border=true)
 
 </div>
 
 ---
 
+<!-- TROPHIES -->
+## 🏅 Honor Board
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Lechguer&theme=forest&no-frame=true&no-bg=true&margin-w=6&column=7)
 
-**Made with ♥ + ☕ + way too many browser tabs**
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lechguer&color=58a6ff&style=flat-square&label=Profile+Views)
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/xT9IgG50Lg7rusVgV2/giphy.gif" width="100%" height="120px" style="object-fit:cover;" alt="Ghibli footer"/>
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=Lechguer&color=2d6a4f&style=for-the-badge&label=PROFILE+VIEWS)
+
+*🌿 Clean code. Clear thinking. Continuous learning. 🌿*
+
+*どうぞよろしく — Nice to meet you* 🌸
 
 </div>
