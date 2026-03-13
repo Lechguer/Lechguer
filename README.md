@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Zakaria%20Lechguer&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20and%20Software%20Engineering%20%40%20INSEA%2C%20Rabat&descAlignY=60&descSize=17" width="100%"/>
-
 </div>
 
 <div align="center">
@@ -113,14 +112,6 @@ zakaria = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lechguer&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📅 My Journey
@@ -155,22 +146,6 @@ zakaria = {
 | 🤝 Land a first internship in data / software engineering | 🎯 Target |
 | ⭐ Reach 10 GitHub stars across repos | 🔄 In Progress |
 | 📝 Write my first technical blog post | 📋 Planned |
-
-</div>
-
----
-
-## 🌊 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lechguer/Lechguer/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lechguer/Lechguer/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Lechguer/Lechguer/output/github-snake-dark.svg"/>
-</picture>
-
-<sub>⚠️ Enable the snake by adding <a href="https://github.com/Platane/snk">this GitHub Action</a> to your profile repo.</sub>
 
 </div>
 
