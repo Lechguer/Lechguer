@@ -1,174 +1,150 @@
-<!-- BANNER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l4Ki2obCyAQS5WhFe/giphy.gif" width="100%" height="250px" style="object-fit:cover;" alt="Ghibli Banner"/>
-</div>
-
----
-
-<!-- TITLE -->
 <div align="center">
 
-# 🌿 Zakaria here ✨ !
-
-### 🙏 Namaste — I'm Zakaria
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HTML%20•%20CSS%20•%20JS%20Projects&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=A%20collection%20of%20creative%20front-end%20projects&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
----
-
-<!-- ABOUT ME -->
-## 🍃 About Me
-
-<img align="right" width="260" src="https://media.giphy.com/media/H7kfgDpkPxAfLx37GY/giphy.gif" alt="Ghibli coding gif"/>
-
-🌱 I'm a **Data & Software Engineering** student, passionate about building things that are clean, fast, and purposeful.
-
-🔭 I work on **Front-End Development** using pure HTML, CSS & JavaScript — no frameworks, no shortcuts.
-
-🎓 I'm currently pursuing a degree in **Data & Software Engineering**.
-
-⚔️ I'm training in **Algorithms, Data Structures & Software Architecture**.
-
-🤖 Interest in **Machine Learning, Data Engineering, Databases & AI**.
-
-💡 Ask me about **HTML, CSS, JavaScript, Python, Data Engineering**.
-
-⚡ I only like perfection.
-
-<br clear="right"/>
-
----
-
-<!-- SOCIAL -->
 <div align="center">
 
-### 🌸 Find Me On
-
-[![GitHub](https://img.shields.io/badge/GitHub-1b4332?style=for-the-badge&logo=github&logoColor=d8f3dc)](https://github.com/Lechguer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d6a4f?style=for-the-badge&logo=linkedin&logoColor=d8f3dc)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-40916c?style=for-the-badge&logo=gmail&logoColor=d8f3dc)](mailto:your@email.com)
+[![GitHub stars](https://img.shields.io/github/stars/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&logo=github&color=00C9FF&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/network)
+[![GitHub issues](https://img.shields.io/github/issues/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&logo=github&color=FF6B6B&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/issues)
+[![GitHub license](https://img.shields.io/github/license/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/blob/main/LICENSE)
 
 </div>
 
 ---
 
-<!-- LANGUAGES & TOOLS -->
-## 🛠️ Languages & Tools I've Placed My Hands On
+## 🌟 About This Repository
+
+> *"Master the basics — and the complex becomes simple."*
+
+This is a curated collection of **front-end mini projects** built purely with **HTML**, **CSS**, and **JavaScript** — no frameworks, no dependencies. Each project is a hands-on exploration of web fundamentals, UI design, DOM manipulation, and creative coding.
+
+Whether you're a beginner looking for inspiration or a developer sharpening your vanilla JS skills, this repo has something for you. 🚀
+
+---
+
+## 🗂️ Project List
+
+| # | Project | Description | Live Demo |
+|---|---------|-------------|-----------|
+| 01 | 🎨 **Color Picker** | Pick and copy HEX/RGB colors interactively | [View](#) |
+| 02 | ⏱️ **Stopwatch** | Precise lap-tracking stopwatch UI | [View](#) |
+| 03 | 🌦️ **Weather Card** | Animated weather display UI | [View](#) |
+| 04 | 🧮 **Calculator** | Fully functional with keyboard support | [View](#) |
+| 05 | 📋 **Todo App** | CRUD to-do list with localStorage | [View](#) |
+| 06 | 🎲 **Random Quote Generator** | Fetch & display quotes dynamically | [View](#) |
+| 07 | 🔢 **Number Guessing Game** | Interactive guess-the-number game | [View](#) |
+| 08 | 🖼️ **Image Slider** | Auto-play carousel with nav controls | [View](#) |
+| 09 | 🌗 **Dark/Light Mode Toggle** | Theme switcher with CSS variables | [View](#) |
+| 10 | ⌨️ **Typing Speed Test** | Measure your WPM in real time | [View](#) |
+
+> More projects are added regularly. Star the repo to stay updated ⭐
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-1b4332?style=flat-square&logo=python&logoColor=d8f3dc)
-![Java](https://img.shields.io/badge/-Java-1b4332?style=flat-square&logo=openjdk&logoColor=d8f3dc)
-![C](https://img.shields.io/badge/-C-1b4332?style=flat-square&logo=c&logoColor=d8f3dc)
-![C++](https://img.shields.io/badge/-C++-1b4332?style=flat-square&logo=cplusplus&logoColor=d8f3dc)
-![R](https://img.shields.io/badge/-R-1b4332?style=flat-square&logo=r&logoColor=d8f3dc)
-![SQL](https://img.shields.io/badge/-SQL-1b4332?style=flat-square&logo=mysql&logoColor=d8f3dc)
-![HTML5](https://img.shields.io/badge/-HTML5-1b4332?style=flat-square&logo=html5&logoColor=d8f3dc)
-![CSS3](https://img.shields.io/badge/-CSS3-1b4332?style=flat-square&logo=css3&logoColor=d8f3dc)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1b4332?style=flat-square&logo=javascript&logoColor=d8f3dc)
-![Git](https://img.shields.io/badge/-Git-1b4332?style=flat-square&logo=git&logoColor=d8f3dc)
-![GitHub](https://img.shields.io/badge/-GitHub-1b4332?style=flat-square&logo=github&logoColor=d8f3dc)
-![VS Code](https://img.shields.io/badge/-VS%20Code-1b4332?style=flat-square&logo=visual-studio-code&logoColor=d8f3dc)
-![Figma](https://img.shields.io/badge/-Figma-1b4332?style=flat-square&logo=figma&logoColor=d8f3dc)
-![Linux](https://img.shields.io/badge/-Linux-1b4332?style=flat-square&logo=linux&logoColor=d8f3dc)
-![Pandas](https://img.shields.io/badge/-Pandas-2d6a4f?style=flat-square&logo=pandas&logoColor=d8f3dc)
-![NumPy](https://img.shields.io/badge/-NumPy-2d6a4f?style=flat-square&logo=numpy&logoColor=d8f3dc)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-2d6a4f?style=flat-square&logo=scikit-learn&logoColor=d8f3dc)
-![Jupyter](https://img.shields.io/badge/-Jupyter-2d6a4f?style=flat-square&logo=jupyter&logoColor=d8f3dc)
-![MySQL](https://img.shields.io/badge/-MySQL-2d6a4f?style=flat-square&logo=mysql&logoColor=d8f3dc)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## ⚡ GitHub Stats
+## 🚀 Getting Started
+
+No installations. No build tools. Just clone and open.
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Lechguer/HTML-CSS-JS-projects.git
+
+# 2. Navigate into it
+cd HTML-CSS-JS-projects
+
+# 3. Open any project folder and launch index.html in your browser
+```
+
+> 💡 Tip: Use **Live Server** in VS Code for hot-reloading as you explore!
+
+---
+
+## 📁 Folder Structure
+
+```
+HTML-CSS-JS-projects/
+│
+├── 01-color-picker/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── 02-stopwatch/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── ...
+│
+└── README.md
+```
+
+---
+
+## 🎯 Goals of This Project
+
+- ✅ Reinforce core HTML/CSS/JS fundamentals
+- ✅ Practice DOM manipulation without libraries
+- ✅ Explore CSS animations & transitions
+- ✅ Build reusable UI components from scratch
+- ✅ Develop a strong front-end foundation before frameworks
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+```bash
+# Fork the repo, create your feature branch
+git checkout -b feature/your-project-name
+
+# Commit your changes
+git commit -m "Add: your-project-name"
+
+# Push and open a Pull Request
+git push origin feature/your-project-name
+```
+
+Please make sure your project:
+- Has its own dedicated folder
+- Includes `index.html`, `style.css`, and `script.js`
+- Is responsive and works in modern browsers
+- Has clean, commented code
+
+---
+
+## 👨‍💻 Author
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lechguer&show_icons=true&hide_border=true&bg_color=d8f3dc&title_color=1b4332&icon_color=2d6a4f&text_color=1b4332&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lechguer&layout=compact&hide_border=true&bg_color=d8f3dc&title_color=1b4332&text_color=1b4332&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com?user=Lechguer&hide_border=true&background=d8f3dc&ring=2d6a4f&fire=40916c&currStreakLabel=1b4332&sideLabels=2d6a4f&dates=40916c&sideNums=1b4332&currStreakNum=1b4332)
+*Full Stack Developer | .NET | Python | AI & ML Enthusiast*
 
 </div>
 
 ---
 
-<!-- TECH STACK -->
-## 🌿 Tech Stack
+## ⭐ Show Your Support
+
+If this repo helped you learn or saved you time, give it a ⭐ — it means a lot and helps others discover it!
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=d8f3dc)
-![Java](https://img.shields.io/badge/Java-40916c?style=for-the-badge&logo=openjdk&logoColor=d8f3dc)
-![C++](https://img.shields.io/badge/C++-1b4332?style=for-the-badge&logo=cplusplus&logoColor=d8f3dc)
-![JavaScript](https://img.shields.io/badge/JavaScript-52b788?style=for-the-badge&logo=javascript&logoColor=1b4332)
-![HTML5](https://img.shields.io/badge/HTML5-74c69d?style=for-the-badge&logo=html5&logoColor=1b4332)
-![CSS3](https://img.shields.io/badge/CSS3-95d5b2?style=for-the-badge&logo=css3&logoColor=1b4332)
-![R](https://img.shields.io/badge/R-2d6a4f?style=for-the-badge&logo=r&logoColor=d8f3dc)
-![SQL](https://img.shields.io/badge/SQL-40916c?style=for-the-badge&logo=mysql&logoColor=d8f3dc)
-![Pandas](https://img.shields.io/badge/Pandas-1b4332?style=for-the-badge&logo=pandas&logoColor=d8f3dc)
-![NumPy](https://img.shields.io/badge/NumPy-2d6a4f?style=for-the-badge&logo=numpy&logoColor=d8f3dc)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-40916c?style=for-the-badge&logo=scikit-learn&logoColor=d8f3dc)
-![Jupyter](https://img.shields.io/badge/Jupyter-52b788?style=for-the-badge&logo=jupyter&logoColor=1b4332)
-![MySQL](https://img.shields.io/badge/MySQL-74c69d?style=for-the-badge&logo=mysql&logoColor=1b4332)
-![Git](https://img.shields.io/badge/Git-1b4332?style=for-the-badge&logo=git&logoColor=d8f3dc)
-![Linux](https://img.shields.io/badge/Linux-2d6a4f?style=for-the-badge&logo=linux&logoColor=d8f3dc)
-![VS Code](https://img.shields.io/badge/VS%20Code-40916c?style=for-the-badge&logo=visual-studio-code&logoColor=d8f3dc)
-![Figma](https://img.shields.io/badge/Figma-52b788?style=for-the-badge&logo=figma&logoColor=1b4332)
-
-</div>
-
----
-
-<!-- TOP REPO + QUOTE -->
-## 🌟 Top Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍀 Random Dev Quote
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lechguer&repo=HTML-CSS-JS-projects&hide_border=true&bg_color=d8f3dc&title_color=1b4332&icon_color=2d6a4f&text_color=1b4332)](https://github.com/Lechguer/HTML-CSS-JS-projects)
-&nbsp;&nbsp;
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
-
-</div>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-## 🌱 Contribution Garden
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lechguer&bg_color=d8f3dc&color=1b4332&line=2d6a4f&point=1b4332&area=true&area_color=95d5b2&hide_border=true)
-
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏅 Honor Board
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lechguer&theme=forest&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/xT9IgG50Lg7rusVgV2/giphy.gif" width="100%" height="120px" style="object-fit:cover;" alt="Ghibli footer"/>
-
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=Lechguer&color=2d6a4f&style=for-the-badge&label=PROFILE+VIEWS)
-
-*🌿 Clean code. Clear thinking. Continuous learning. 🌿*
-
-*どうぞよろしく — Nice to meet you* 🌸
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
