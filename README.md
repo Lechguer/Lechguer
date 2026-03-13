@@ -1,150 +1,205 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HTML%20•%20CSS%20•%20JS%20Projects&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=A%20collection%20of%20creative%20front-end%20projects&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Zakaria%20Lechguer&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20and%20Software%20Engineering%20%40%20INSEA%2C%20Rabat&descAlignY=60&descSize=17" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&logo=github&color=00C9FF&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/network)
-[![GitHub issues](https://img.shields.io/github/issues/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&logo=github&color=FF6B6B&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/issues)
-[![GitHub license](https://img.shields.io/github/license/Lechguer/HTML-CSS-JS-projects?style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Lechguer/HTML-CSS-JS-projects/blob/main/LICENSE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=620&lines=Hey+there!+I'm+Zakaria+%F0%9F%91%8B;Data+%26+Software+Engineering+%40+INSEA;Building+at+the+intersection+of+data+%26+code;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Lechguer&label=Profile%20Views&color=FF6B9D&style=for-the-badge)](https://github.com/Lechguer)
+[![GitHub followers](https://img.shields.io/github/followers/Lechguer?label=Followers&style=for-the-badge&color=C084FC&labelColor=1a1a2e)](https://github.com/Lechguer?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-lechguer-3213ab289)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20✦%20Collabs-00C9A7?style=for-the-badge&logoColor=white)](https://github.com/Lechguer)
 
 </div>
 
 ---
 
-## 🌟 About This Repository
+<img align="right" alt="coding gif" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-> *"Master the basics — and the complex becomes simple."*
+## 🧑‍💻 About Me
 
-This is a curated collection of **front-end mini projects** built purely with **HTML**, **CSS**, and **JavaScript** — no frameworks, no dependencies. Each project is a hands-on exploration of web fundamentals, UI design, DOM manipulation, and creative coding.
+```python
+zakaria = {
+  "🎓 school"   : "INSEA, Rabat 🇲🇦",
+  "📚 program"  : "Data & Software Engineering",
+  "🔭 working"  : "data pipelines, algorithms & UIs",
+  "🌱 learning" : "Python data stack · SQL deep-dives",
+  "💡 interests": ["Databases", "Algorithms", "Web Dev"],
+  "🤝 open_to"  : ["Internships", "Collabs", "Projects"],
+  "⚡ fun_fact" : "A clean login page = a clean mind 🔐"
+}
+```
 
-Whether you're a beginner looking for inspiration or a developer sharpening your vanilla JS skills, this repo has something for you. 🚀
-
----
-
-## 🗂️ Project List
-
-| # | Project | Description | Live Demo |
-|---|---------|-------------|-----------|
-| 01 | 🎨 **Color Picker** | Pick and copy HEX/RGB colors interactively | [View](#) |
-| 02 | ⏱️ **Stopwatch** | Precise lap-tracking stopwatch UI | [View](#) |
-| 03 | 🌦️ **Weather Card** | Animated weather display UI | [View](#) |
-| 04 | 🧮 **Calculator** | Fully functional with keyboard support | [View](#) |
-| 05 | 📋 **Todo App** | CRUD to-do list with localStorage | [View](#) |
-| 06 | 🎲 **Random Quote Generator** | Fetch & display quotes dynamically | [View](#) |
-| 07 | 🔢 **Number Guessing Game** | Interactive guess-the-number game | [View](#) |
-| 08 | 🖼️ **Image Slider** | Auto-play carousel with nav controls | [View](#) |
-| 09 | 🌗 **Dark/Light Mode Toggle** | Theme switcher with CSS variables | [View](#) |
-| 10 | ⌨️ **Typing Speed Test** | Measure your WPM in real time | [View](#) |
-
-> More projects are added regularly. Star the repo to stay updated ⭐
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
+
+**💬 Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🌐 Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Getting Started
-
-No installations. No build tools. Just clone and open.
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Lechguer/HTML-CSS-JS-projects.git
-
-# 2. Navigate into it
-cd HTML-CSS-JS-projects
-
-# 3. Open any project folder and launch index.html in your browser
-```
-
-> 💡 Tip: Use **Live Server** in VS Code for hot-reloading as you explore!
-
----
-
-## 📁 Folder Structure
-
-```
-HTML-CSS-JS-projects/
-│
-├── 01-color-picker/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── 02-stopwatch/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── ...
-│
-└── README.md
-```
-
----
-
-## 🎯 Goals of This Project
-
-- ✅ Reinforce core HTML/CSS/JS fundamentals
-- ✅ Practice DOM manipulation without libraries
-- ✅ Explore CSS animations & transitions
-- ✅ Build reusable UI components from scratch
-- ✅ Develop a strong front-end foundation before frameworks
-
----
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-```bash
-# Fork the repo, create your feature branch
-git checkout -b feature/your-project-name
-
-# Commit your changes
-git commit -m "Add: your-project-name"
-
-# Push and open a Pull Request
-git push origin feature/your-project-name
-```
-
-Please make sure your project:
-- Has its own dedicated folder
-- Includes `index.html`, `style.css`, and `script.js`
-- Is responsive and works in modern browsers
-- Has clean, commented code
-
----
-
-## 👨‍💻 Author
+## 🗂️ Featured Projects
 
 <div align="center">
 
-*Full Stack Developer | .NET | Python | AI & ML Enthusiast*
+| 🚀 Project | 📝 Description | 🔧 Stack |
+|:-----------|:---------------|:---------|
+| [🗄️ SQL Employee Database](https://github.com/Lechguer/SQL-EMPLOYEE-DATABASE) | Relational DB with complex queries, joins & aggregations | `SQL` |
+| [🎮 Hangman Game](https://github.com/Lechguer/Hangman_Game) | Classic word-guessing game built from scratch | `C` |
+| [📅 Day of the Week](https://github.com/Lechguer/Find-day-of-the-week-for-a-given-date) | Algorithm to compute the weekday for any date | `C` |
+| [🌐 HTML · CSS · JS Projects](https://github.com/Lechguer/HTML-CSS-projects) | Handcrafted frontend mini-projects collection | `HTML` `CSS` `JS` |
 
 </div>
 
 ---
 
-## ⭐ Show Your Support
-
-If this repo helped you learn or saved you time, give it a ⭐ — it means a lot and helps others discover it!
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lechguer&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B9D&icon_color=C084FC&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechguer&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lechguer&theme=radical&hide_border=true&background=0d1117&ring=FF6B9D&fire=FFD700&currStreakLabel=C084FC)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lechguer&theme=react-dark&bg_color=0d1117&color=FF6B9D&line=C084FC&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lechguer&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📅 My Journey
+
+```
+2023 ──────────────────────────────────────────────────────► 2026
+  │
+  ├─ 🎓  Joined INSEA · Data & Software Engineering
+  │
+  ├─ 💻  First steps in C — algorithms, logic, data structures
+  │
+  ├─ 🗄️  Dived into SQL — relational databases & complex queries
+  │
+  ├─ 🌐  Explored the web — HTML · CSS · JS projects
+  │
+  ├─ 🎮  Built Hangman Game in C — pure logic, no libs
+  │
+  └─ 🚀  Now: deepening Python & data engineering fundamentals
+```
+
+---
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🐍 Master Python data stack (pandas, NumPy, matplotlib) | 🔄 In Progress |
+| 🗃️ Build a full data pipeline project end-to-end | 📋 Planned |
+| ⚙️ Learn a backend framework (Flask or FastAPI) | 📋 Planned |
+| 🤝 Land a first internship in data / software engineering | 🎯 Target |
+| ⭐ Reach 10 GitHub stars across repos | 🔄 In Progress |
+| 📝 Write my first technical blog post | 📋 Planned |
+
+</div>
+
+---
+
+## 🌊 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lechguer/Lechguer/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lechguer/Lechguer/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lechguer/Lechguer/output/github-snake-dark.svg"/>
+</picture>
+
+<sub>⚠️ Enable the snake by adding <a href="https://github.com/Platane/snk">this GitHub Action</a> to your profile repo.</sub>
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria%20Lechguer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-lechguer-3213ab289)
+[![GitHub](https://img.shields.io/badge/GitHub-@Lechguer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lechguer)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
