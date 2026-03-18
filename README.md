@@ -46,31 +46,69 @@ zakaria = {
 
 <div align="center">
 
-**💬 Languages**
+## 💬 Languages & Proficiency
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-**🌐 Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🗄️ Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**🔧 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Icon</th>
+    <th>Level</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td><b>C</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></td>
+    <td>🟡 Intermediate</td>
+    <td><img src="https://progress-bar.xyz/70/?width=200&color=667eea&bgColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td><b>C++</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td>🟡 Intermediate</td>
+    <td><img src="https://progress-bar.xyz/65/?width=200&color=667eea&bgColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td><b>Python</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
+    <td>🟡 Intermediate</td>
+    <td><img src="https://progress-bar.xyz/70/?width=200&color=3776AB&bgColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td>🟠 Elementary</td>
+    <td><img src="https://progress-bar.xyz/45/?width=200&color=F7DF1E&bgColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td><b>Java</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+    <td>🟠 Elementary</td>
+    <td><img src="https://progress-bar.xyz/40/?width=200&color=ED8B00&bgColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td><b>SQL</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
+    <td>🟡 Intermediate</td>
+    <td><img src="https://progress-bar.xyz/65/?width=200&color=336791&bgColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td><b>HTML5</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
+    <td>🟡 Intermediate</td>
+    <td><img src="https://progress-bar.xyz/65/?width=200&color=E34F26&bgColor=1a1b27"/></td>
+  </tr>
+  <tr>
+    <td><b>CSS3</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></td>
+    <td>🟡 Intermediate</td>
+    <td><img src="https://progress-bar.xyz/60/?width=200&color=1572B6&bgColor=1a1b27"/></td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
@@ -178,3 +216,5 @@ zakaria = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
+
