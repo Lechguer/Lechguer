@@ -178,3 +178,5 @@ zakaria = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lechguer)](https://github.com/ryo-ma/github-profile-trophy)
