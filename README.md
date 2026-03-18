@@ -179,4 +179,4 @@ zakaria = {
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lechguer)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lechguer&show_icons=true&theme=radical)
