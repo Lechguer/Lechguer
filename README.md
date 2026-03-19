@@ -42,8 +42,6 @@ zakaria = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 ## 💬 Languages & Proficiency
